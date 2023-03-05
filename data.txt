@@ -1,0 +1,10 @@
+These are the parameters I received:
+Firstname: Divya
+Lastname: Gunna
+Mobile Number: 309-989-4841
+Program of Study: computer science
+Membership Plan: Free trial!
+Zip: 61606
+Payment Method: American Express
+Select Language: English
+Select Genre: comedy
